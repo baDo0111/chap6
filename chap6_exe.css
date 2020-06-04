@@ -1,0 +1,107 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: 0;
+	color: #6c6b6b;
+}
+
+.box1 {
+	height: 200px;
+	background-image: url(img/box1.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.box1-visual-content {
+	background-color: rgba( 0, 0, 0, 0.5);
+	width: 40%;
+	height: 200px;
+	text-align: center;
+	padding-top: 45px;
+}
+
+.box1-visual-text {
+	color: #fff;
+}
+
+.box1-visual-name {
+	margin-top: 30px;
+	color: #fff;
+}
+
+.box2 {
+	height: 200px;
+	background-size: cover;
+	background-image: url(img/box2.jpg);
+	background-position: center;
+}
+
+.box2-visual-content {
+	background-color: rgba( 0, 0, 0, 0.8);
+	width: 40%;
+	height: 200px;
+	text-align: center;
+	padding-top: 45px;
+}
+
+.box2-visual-text {
+	color: #fff;
+}
+
+.box2-visual-name {
+	margin-left: 30px;
+	margin-top: 60px;
+	color: red;
+}
+
+.box3 {
+	height: 200px;
+	background-size: cover;
+	background-image: url(img/box3.jpg);
+	background-position: center;
+}
+
+.box3-visual-content {
+	background-color: rgba( 255, 255, 0, 0.5);
+	width: 40%;
+	height: 200px;
+	text-align: center;
+	padding-top: 45px;
+}
+
+.box3-visual-text {
+	color: black;
+}
+
+.box3-visual-name {
+	margin-top: 50px;
+	color: yellow;
+}
+
+.box4 {
+	height: 200px;
+	background-size: cover;
+	background-image: url(img/box4.jpg);
+	background-position: center;
+}
+
+.box4-visual-content {
+	background-color: rgba( 0, 0, 128, 0.7);
+	width: 40%;
+	height: 155px;
+	text-align: center;
+	padding-top: 45px;
+}
+
+.box4-visual-text {
+	color: #800000;
+}
+
+.box4-visual-name {
+	margin-top: 40px;
+	color: blue;
+}
+
+
+
+
